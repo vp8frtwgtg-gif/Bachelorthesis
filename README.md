@@ -18,4 +18,4 @@
 
 ## Bachelor's Thesis
 
-[View / download the full thesis (PDF)](Bachelorthesis_Colim_LRS.pdf)
+The PDF can be found here: https://drive.google.com/file/d/1wSCmT3GMWeBsMQdBkRJVxdAPLCtvdOGX/view?usp=sharing
